@@ -1,0 +1,14 @@
+$font-size: 50px;
+.title {
+  margin: 0;
+  width: 100%;
+  padding-top: 80px;
+  line-height: 1.15;
+  font-size: 48px;
+  text-align: center;
+  color: #333333;
+  font-family: 'Avenir Next Bold', Arial, Helvetica, sans-serif;
+}
+.example {
+  font-size: $font-size;
+}
